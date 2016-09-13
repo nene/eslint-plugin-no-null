@@ -19,8 +19,8 @@ Add `no-null` to your `.eslintrc`:
   "plugins": [
     "no-null"
   ],
-  "rules": [
+  "rules": {
     "no-null": 2
-  ]
+  }
 }
 ```
