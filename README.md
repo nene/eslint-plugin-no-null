@@ -20,7 +20,7 @@ Add `no-null` to your `.eslintrc`:
     "no-null"
   ],
   "rules": {
-    "no-null": 2
+    "no-null/no-null": 2
   }
 }
 ```
