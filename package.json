@@ -1,0 +1,22 @@
+{
+  "name": "eslint-plugin-no-null",
+  "version": "1.0.0",
+  "description": "ESLint rule to disallow null",
+  "keywords": [
+    "eslint",
+    "eslint-plugin"
+  ],
+  "author": "Rene Saarsoo <nene@triin.net>",
+  "homepage": "https://github.com/nene/eslint-plugin-no-null",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nene/eslint-plugin-no-null.git"
+  },
+  "peerDependencies": {
+    "eslint": ">=3.0.0"
+  },
+  "engines": {
+    "node": ">=5.0.0"
+  },
+  "license": "MIT"
+}
